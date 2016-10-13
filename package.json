@@ -1,0 +1,19 @@
+{
+  "name": "reactquiz",
+  "version": "1.0.0",
+  "description": "Pure react quiz app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffShomali/React_Quiz.git"
+  },
+  "author": "jeff bagheri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffShomali/React_Quiz/issues"
+  },
+  "homepage": "https://github.com/JeffShomali/React_Quiz#readme"
+}
